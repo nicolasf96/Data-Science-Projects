@@ -2,12 +2,7 @@
 
 El objetivo es clasificar las flores Iris de entre las tres especies de acuerdo a longitud y ancho de sépalos y pétalos.
 
-<p align="center">
-
-<img src="./docs/iris_flower.png" alt="Descripcion Flores de Iris"width="800"/>
-
-</p>
-
+![Iris](.docs/iris_flower.png)
 
 En **Machine Learning supervisado**, se debe separar el dataset en *features* (X) y *target* (y):
 
