@@ -10,5 +10,4 @@ El objetivo principal es:
 * Construir un portfolio que muestre mi progreso y experiencia en el área
 
 
-![Iris Flower](./Iris_Flower_Classification/docs/iris_flower.png)
 
